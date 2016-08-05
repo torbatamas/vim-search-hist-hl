@@ -1,1 +1,1 @@
-# vim-search-hist-hl
+# vim-search-hist-hlcolors the last N search pattern
